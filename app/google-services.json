@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663893768458",
+    "project_id": "mvvmpokemon-5d84d",
+    "storage_bucket": "mvvmpokemon-5d84d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663893768458:android:b0e73ced686cc730cd22f3",
+        "android_client_info": {
+          "package_name": "com.example.mvvmpokemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663893768458-cal3g0e2ahecrd3llrqd002h998qcpsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXhDnl4jfi7XoEiEoH6jO3G2cLabYmQpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663893768458-cal3g0e2ahecrd3llrqd002h998qcpsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
